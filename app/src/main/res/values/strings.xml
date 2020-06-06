@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TapGame Fiap</string>
+    <string name="button_start_game">Iniciar Jogo</string>
+</resources>
